@@ -66,15 +66,6 @@ Frontend Developer focused on building modern web applications with Node, React,
 
 <div align="left">
   
-## 💡 Currently working on
-[Application for managing a volleyball league](https://github.com/volley-pro/volley-pro-admin)
-
-## 🚀 Most recent project
-**To-do App**  
-[GitHub repository](https://github.com/kasia251011/todo-app)  
-[Live demo](https://todo-app-production-7f13.up.railway.app)
-
-
 ## 🏅 Selected achievements
 
 * 🥇 1st place — Hackathon Płock City Coders 2024
@@ -82,7 +73,7 @@ Frontend Developer focused on building modern web applications with Node, React,
 * 🥉 3rd place — Hackathon Płock City Coders 2023
 * 🎓 Rector's Scholarship recipient
 
-  <img width="768" height="512" alt="image" src="https://github.com/user-attachments/assets/3684c474-5ceb-4c47-be41-e378e3c58621" />
+  <img width="384" height="256" alt="image" src="https://github.com/user-attachments/assets/3684c474-5ceb-4c47-be41-e378e3c58621" />
 
 
 ---
