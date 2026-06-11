@@ -1,6 +1,7 @@
 # Hi, I'm Kasia 👋
 
-Frontend Developer focused on building modern web applications with Node, React, Next.js and TypeScript.
+Frontend Developer 💻 with expertise in building modern web applications using Node.js, React, Next.js, and TypeScript.
+<br/> Currently focused on Angular applications ⚡
 
 💼 Commercial experience in product teams and freelance projects
 <br/>
@@ -28,6 +29,7 @@ Frontend Developer focused on building modern web applications with Node, React,
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/3e9243b6-a972-4cb5-a514-b033004a3ab3" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/052cdc98-d2fe-4ef8-86a6-c411c11b814f" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/01cc0693-7e01-4352-bb9b-672e036261e8" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/71cce558-d358-48fb-bf81-86f7920d78d3" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/1c8f8024-eae0-4f7c-876f-35387c78879c" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c023d1f6-7353-4852-a2e3-b0eb1771b777" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/efadaf7b-326e-41ae-8cd6-0eac232ed4e6" />
